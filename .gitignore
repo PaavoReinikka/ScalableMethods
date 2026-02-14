@@ -1,0 +1,19 @@
+.pytest_cache/
+__pycache__/
+.private*
+.DS_Store
+.env
+*.pyc
+*.pyo
+.idea/
+.vscode/
+# Ignore logs and database files
+logs/
+*.log
+*.db
+# Ignore coverage reports
+htmlcov/
+.coverage
+# Ignore virtual environment directories
+venv/
+.venv/
